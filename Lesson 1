@@ -1,0 +1,865 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "288ed7ef-79c8-467e-ab80-8801ba9e9b31",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Hello\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(\"Hello\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "4d8e8430-91e8-4237-a010-50f3cfb5f01b",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "id": "02ecdfff-d6da-4cc1-bff8-3ac104c74dc3",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "10.0\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(50/5)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 24,
+   "id": "7d874f5b-8197-4a50-b31e-d0ed0214a481",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "malak\n"
+     ]
+    }
+   ],
+   "source": [
+    "def my_name():\n",
+    "    print(\"malak\")\n",
+    "my_name()   "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 8,
+   "id": "58ed81a2-e169-43e7-9892-e36e8462a5fc",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# my_name"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 30,
+   "id": "d8990cda-7e6d-4083-a4d5-e78f8d5324ef",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "40\n"
+     ]
+    }
+   ],
+   "source": [
+    "def sum (x ,y ):\n",
+    "    result = x + y \n",
+    "    print(result) \n",
+    "sum(20,20)\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "983aae5b-6048-42ec-a33f-ce82bc9c8321",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 32,
+   "id": "62162846-ee0f-4570-9b8f-6436d95299ff",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "25\n"
+     ]
+    }
+   ],
+   "source": [
+    "def sum (c,r):\n",
+    "    result = c*r\n",
+    "    print(result)\n",
+    "sum(5,5)    \n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 34,
+   "id": "d023b912-bfd0-476b-b246-66d58cf25ae3",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "25\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(5*5)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 40,
+   "id": "92baf417-c937-47b6-9725-744674abbbee",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "nasr\n"
+     ]
+    }
+   ],
+   "source": [
+    "def name():\n",
+    "    print(\"nasr\")\n",
+    "my_name()    "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "7f3c922e-744c-4a71-94ad-d35eef9c39bf",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "8b925901-1969-489c-8cc8-3887ae389deb",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "8ddcebac-ebb6-4db4-9e48-d39a7ed14fa5",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "f77b60d4-8f85-4af7-8ade-c14b54784777",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "24783412-fc32-4758-addd-eb49ed60766e",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "8c6edd42-6c0c-4501-a1e9-0f779bd0d63a",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "09de23e8-5d46-4443-b52c-fcbee17d9f1f",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "ec6231a0-894b-4193-a633-b26b30cbddb5",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "a693da51-369e-4c9c-8836-9bd44a5f49b6",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "9b1c9f40-7c26-4f4a-98e0-783890e25a67",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "0f747c8d-ed37-4bd1-8960-da4f8807771a",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 65,
+   "id": "e66123cb-cdcf-4c8a-85f9-814449a2742e",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "5.0\n"
+     ]
+    }
+   ],
+   "source": [
+    "def sum (n,m):\n",
+    "    result = n/m\n",
+    "    print(result)\n",
+    "sum (25,5)   \n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 67,
+   "id": "b5889131-96e6-4add-8405-3e8dde2fbe8d",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "nasr mohamed\n"
+     ]
+    }
+   ],
+   "source": [
+    "def my_name():\n",
+    "    print(\"nasr mohamed\")\n",
+    "my_name()    "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "30ae0468-93e5-4e1b-965d-c79004801d4a",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 69,
+   "id": "5f8a9c0c-0121-4220-bf4a-eb34789ab235",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "nasr mohamed nasr\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(\"nasr mohamed nasr\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 71,
+   "id": "f932cd24-8b55-432e-9f2e-9fe582b635a7",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "'\\ngkldglfgf\\ngggggggggggg\\nhhhhhhhhhh\\n\\n'"
+      ]
+     },
+     "execution_count": 71,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "\"\"\"\n",
+    "gkldglfgf\n",
+    "gggggggggggg\n",
+    "hhhhhhhhhh\n",
+    "\n",
+    "\"\"\""
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "993c2eca-aef0-4665-941f-ca56bbae4366",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 78,
+   "id": "4fc6740f-de81-4660-8c49-a8ba52a1ac88",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "nasr\n"
+     ]
+    }
+   ],
+   "source": [
+    "'''\n",
+    "fffffffff\n",
+    "ggggggggggggg\n",
+    "gggggg\n",
+    "'''\n",
+    "print(\"nasr\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 82,
+   "id": "1abb479e-5256-47bf-9c17-ea18e08e6798",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "9\n"
+     ]
+    }
+   ],
+   "source": [
+    "x = 89\n",
+    "x = 9\n",
+    "print(x)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 84,
+   "id": "f8e5d1f5-5975-4d87-8cfc-9d7b99ce6ea7",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "80\n"
+     ]
+    }
+   ],
+   "source": [
+    "y =90\n",
+    "y =80\n",
+    "print(y)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 86,
+   "id": "e740eb76-6b07-4832-8175-17145a65507c",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "a = 42\n",
+    "b = 3.14\n",
+    "c = 'x'"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 90,
+   "id": "209d38c0-64d8-4cd0-a47a-57b65a5ab1b6",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "q\n"
+     ]
+    }
+   ],
+   "source": [
+    "y = 'nasr'      #string\n",
+    "x = 1           #int\n",
+    "c = 2.5         #float\n",
+    "q = x*c\n",
+    "print('q')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "cc18cc3d-b3c0-4af6-b351-92f57de5068c",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 122,
+   "id": "735e9b03-2a84-45b9-bd44-603c9e37d1f1",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Hello nasr I live you 15 year old\n"
+     ]
+    }
+   ],
+   "source": [
+    "name = 'nasr'\n",
+    "age = 15\n",
+    "print('Hello ' +  name +' I live you '+ str(age) + ' year old')"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "d30dc232-3e18-4a94-9233-e4a300071e13",
+   "metadata": {},
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "1f96e278-6e50-4f29-bb84-3cdaced75e50",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 132,
+   "id": "4e1f4634-c42d-4195-8fc4-5858c8bdff2e",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "hello nasr you are 15 years old\n"
+     ]
+    }
+   ],
+   "source": [
+    "name = 'nasr'\n",
+    "age = 15\n",
+    "print(f\"hello {name} you are {age} years old\" )"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 156,
+   "id": "ba2cecac-d2a1-435b-950b-c334310b0edd",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "hello ahmed you are 16 years old\n"
+     ]
+    }
+   ],
+   "source": [
+    "name ='ahmed'\n",
+    "age = 16\n",
+    "x ='hello {} you are {} years old'.format(name,age)\n",
+    "print (x)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "0d0baa48-213e-4b86-807d-ef0b11019e22",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "1f93e336-0dd6-40b3-ad65-63cae2b87677",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "f61ceb11-f5e8-489b-aa20-620100cfe963",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "9096bc87-d873-4785-a40f-3d2b1a476fbf",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "6de3b164-92c8-4d31-94d1-fbbfdd8991c0",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "37687bd5-b32a-45fa-9da7-e5c52e9bfd4e",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 198,
+   "id": "4a068330-81ee-471e-a4d3-0029dffd14bc",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "nasr \n",
+      "mohamed\n"
+     ]
+    }
+   ],
+   "source": [
+    "print('nasr \\nmohamed')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 202,
+   "id": "6a4f0041-b3ff-4a20-a890-a842d252c1c7",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "80\n"
+     ]
+    }
+   ],
+   "source": [
+    "x = 90\n",
+    "y = 10\n",
+    "result =(x-y)\n",
+    "print(result)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 232,
+   "id": "ae404ec1-1c72-49e4-8f32-6151d0a02513",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "hello nasr15 years old\n"
+     ]
+    }
+   ],
+   "source": [
+    "name ='nasr'\n",
+    "age = 15\n",
+    "print('hello ' + name +  str(age)  + ' years old')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 254,
+   "id": "719a7b1c-34dd-42f7-b028-4128db667294",
+   "metadata": {
+    "scrolled": true
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "-\n",
+      "-\t -\n",
+      "- \t - \t -\n",
+      "- \t -\n",
+      "-\n"
+     ]
+    }
+   ],
+   "source": [
+    "print('-');print('-\\t -');print('- \\t - \\t -');print('- \\t -');print('-')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 294,
+   "id": "7b59c274-fe89-4ce9-a960-648c85664ca4",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "- \n",
+      "- \t- \n",
+      "-\t-\t-\n",
+      "-\t-\n",
+      "-\n"
+     ]
+    }
+   ],
+   "source": [
+    "print('- \\n- \\t- \\n-\\t-\\t-\\n-\\t-\\n-')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 280,
+   "id": "cf28aa76-567f-4a13-b743-1b6999c47f12",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "150.0\n"
+     ]
+    }
+   ],
+   "source": [
+    "x =10\n",
+    "y =20\n",
+    "c =30\n",
+    "result=(1/2*x*c)\n",
+    "print(result)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 296,
+   "id": "ef4a75b3-a9ec-4968-872f-a1965f86fe30",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdin",
+     "output_type": "stream",
+     "text": [
+      "wrting your name  nasr\n"
+     ]
+    },
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "hello nasr\n"
+     ]
+    }
+   ],
+   "source": [
+    "name = input(\"wrting your name\")\n",
+    "print('hello' + name )"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "93542fcd-c497-42a8-b7ce-b6e9a4692f6a",
+   "metadata": {},
+   "source": [
+    "age=input(\"what is a number..?\")\n",
+    "print(age)\n",
+    "score=100\n",
+    "if score>=50:\n",
+    "   print('pravo yes good')\n",
+    "elif score <=50\n",
+    "     print('sorry,you fast')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 345,
+   "id": "d1148784-55e3-4faa-aa6b-0462c4520333",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdin",
+     "output_type": "stream",
+     "text": [
+      "Enter the number 20\n"
+     ]
+    },
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "20\n",
+      "pravo yes good\n"
+     ]
+    }
+   ],
+   "source": [
+    "age=input(\"What ia a number..?\")\n",
+    "print(age)\n",
+    "score=100 \n",
+    "if  score>=50:\n",
+    "    print(\"pravo yes good\")\n",
+    "else:\n",
+    "    print(\"sorry,you fast\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "c6d29f9b-0448-4f12-b875-9f6a9fc48481",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "10\n"
+     ]
+    },
+    {
+     "data": {
+      "text/plain": [
+       "float"
+      ]
+     },
+     "execution_count": 1,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "x = 10\n",
+    "z = float(x)\n",
+    "print(x)\n",
+    "type(z)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "id": "04ff8e69-b58a-4742-abe4-e0a16876dad2",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "'9'"
+      ]
+     },
+     "execution_count": 5,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "x = 9\n",
+    "str(x)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "0de3666a-331b-4d14-9459-46359bee4236",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.12.7"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
